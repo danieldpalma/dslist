@@ -1,6 +1,6 @@
-package com.danieldpalma.demo.dto;
+package com.danieldpalma.dslist.dto;
 
-import com.danieldpalma.demo.entities.Game;
+import com.danieldpalma.dslist.entities.Game;
 
 public class GameMinDTO {
     private Long id;

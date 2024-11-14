@@ -1,6 +1,6 @@
-package com.danieldpalma.demo.repositories;
+package com.danieldpalma.dslist.repositories;
 
-import com.danieldpalma.demo.entities.Game;
+import com.danieldpalma.dslist.entities.Game;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface GameRepository extends JpaRepository<Game, Long> {

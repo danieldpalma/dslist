@@ -1,4 +1,4 @@
-package com.danieldpalma.demo.entities;
+package com.danieldpalma.dslist.entities;
 
 import jakarta.persistence.*;
 

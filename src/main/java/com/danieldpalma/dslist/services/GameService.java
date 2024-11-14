@@ -1,8 +1,8 @@
-package com.danieldpalma.demo.services;
+package com.danieldpalma.dslist.services;
 
-import com.danieldpalma.demo.dto.GameMinDTO;
-import com.danieldpalma.demo.entities.Game;
-import com.danieldpalma.demo.repositories.GameRepository;
+import com.danieldpalma.dslist.dto.GameMinDTO;
+import com.danieldpalma.dslist.entities.Game;
+import com.danieldpalma.dslist.repositories.GameRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

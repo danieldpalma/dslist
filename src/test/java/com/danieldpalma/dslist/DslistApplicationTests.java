@@ -1,4 +1,4 @@
-package com.danieldpalma.demo;
+package com.danieldpalma.dslist;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

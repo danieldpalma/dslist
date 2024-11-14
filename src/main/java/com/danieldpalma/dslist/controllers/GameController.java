@@ -1,8 +1,7 @@
-package com.danieldpalma.demo.controllers;
+package com.danieldpalma.dslist.controllers;
 
-import com.danieldpalma.demo.dto.GameMinDTO;
-import com.danieldpalma.demo.entities.Game;
-import com.danieldpalma.demo.services.GameService;
+import com.danieldpalma.dslist.dto.GameMinDTO;
+import com.danieldpalma.dslist.services.GameService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

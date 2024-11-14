@@ -1,4 +1,4 @@
-package com.danieldpalma.demo;
+package com.danieldpalma.dslist;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
